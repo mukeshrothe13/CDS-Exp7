@@ -1,3 +1,4 @@
+//Mukesh Rothe  //23070123089  //EXP 7
 #include<iostream>
 using namespace std;
 int main()
@@ -26,7 +27,7 @@ for (j= 1 ; j<n; j++)
  }
 }
 cout <<"The maximum element in the given array is: "<<max<<endl;
-cout << " The minimun element in the array is: "<<min<<endl;
+cout << "The minimun element in the array is: "<<min<<endl;
 return 0;
 
 }
