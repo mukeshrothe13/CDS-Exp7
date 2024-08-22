@@ -3,8 +3,8 @@
 using namespace std;
 int main() 
 {
-    string name("Prakhar");
-    string surname("Gupta");
+    string name("Mukesh");
+    string surname("Rothe");
     name.append(surname);
     cout<<name<<endl;
 }
