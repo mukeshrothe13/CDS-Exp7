@@ -1,5 +1,4 @@
-//PRAKHAR GUPTA
-//23070123101
+//Mukesh Rothe  //23070123089  //EXP 7
 #include<iostream>
 #include<string>
 #include<algorithm>
